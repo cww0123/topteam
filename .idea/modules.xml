@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/topteam.iml" filepath="$PROJECT_DIR$/topteam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topteam-dao/topteam-dao.iml" filepath="$PROJECT_DIR$/topteam-dao/topteam-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topteam-service/topteam-service.iml" filepath="$PROJECT_DIR$/topteam-service/topteam-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topteam-utils/topteam-utils.iml" filepath="$PROJECT_DIR$/topteam-utils/topteam-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topteam-web/topteam-web.iml" filepath="$PROJECT_DIR$/topteam-web/topteam-web.iml" />
+    </modules>
+  </component>
+</project>
