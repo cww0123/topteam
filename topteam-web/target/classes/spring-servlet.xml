@@ -49,7 +49,7 @@
     <!-- 请求拦截器-->
     <mvc:interceptors>
         <mvc:interceptor>
-            <mvc:mapping path="/*.json"/>
+            <mvc:mapping path="/*/*.json"/>
             <bean class="com.topteam.interceptor.URLInterceptor"/>
         </mvc:interceptor>
     </mvc:interceptors>
